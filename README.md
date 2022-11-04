@@ -3,7 +3,8 @@
 NYC Citibike with Tableau
 
 Purpose:
-The purpose of this project was to import data into Tableau, create worksheets with style, develop dashboards, and provide a story in Tableau.  In addition, use Tableau worksheets to display data in a professional/artistic exhibit.
+The purpose of this project was to import data into Tableau, create worksheets with style, develop dashboards, and provide a story in Tableau.  In addition, use Tableau worksheets to display data in a professional/artistic exhibit.  [link to dashboard](https://10az.online.tableau.com/#/site/utjerry/workbooks/1910147/views)
+
 Statistical analysis:
 Jupyter Notebook was used to change the trip duration data to a datetime field. 
 ![image](https://user-images.githubusercontent.com/108476566/200037240-c4e5e345-6668-4534-bb5e-3a97ae8db021.png)
