@@ -7,7 +7,7 @@ The purpose of this project was to import data into Tableau, create worksheets w
 
 Link to Tableau Story
 https://10az.online.tableau.com/#/site/utjerry/views/Tripduration/Story1?:iid=2
-
+Public view https://public.tableau.com/app/profile/jerry.barron/viz/Tripduration_16680433404630/Tripduration?publish=yes
 
 Statistical analysis:
 Jupyter Notebook was used to change the trip duration data to a datetime field. 
